@@ -73,7 +73,7 @@
   <a href="mailto:seelananton8@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/anton-sureshkumar-s-b63717394">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://github.com/seelananton8-byte">
