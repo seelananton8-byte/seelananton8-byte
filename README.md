@@ -83,8 +83,8 @@
   <a href="https://github.com/seelananton8-byte">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://movie-app-ten-indol-45.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Movie_App_Live-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://tail-wind-three.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio_Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
 </a>
 </p>
 
