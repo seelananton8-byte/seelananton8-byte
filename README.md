@@ -48,7 +48,7 @@
 ### 📊 Admin Dashboard with Analytics
 - KPI dashboards & optimized React components
 
-### 🎬 Movie App (React)
+### 🎬 Movie App
 🔗 **Live Demo:** https://movie-app-ten-indol-45.vercel.app/
 
 - Built with React & JavaScript  
