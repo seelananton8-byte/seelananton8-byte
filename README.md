@@ -48,9 +48,13 @@
 ### 📊 Admin Dashboard with Analytics
 - KPI dashboards & optimized React components
 
-### 🌐 Personal Portfolio Website
-- Fully responsive React portfolio
-- Deployed on Vercel
+### 🎬 Movie App (React)
+🔗 **Live Demo:** https://movie-app-ten-indol-45.vercel.app/
+
+- Built with React & JavaScript  
+- Responsive UI  
+- Movie data fetched via API  
+- Deployed on Vercel  
 
 ---
 
