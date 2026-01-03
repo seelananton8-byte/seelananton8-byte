@@ -57,13 +57,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seelananton8-byte&show_icons=true&theme=github_dark" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seelananton8-byte&theme=github_dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seelananton8-byte&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800" height="165" />
+  <img src="https://streak-stats.demolab.com?user=seelananton8-byte&theme=github-dark" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seelananton8-byte&layout=compact&theme=github_dark" />
 </p>
+
 
 ---
 
