@@ -79,9 +79,9 @@
   <a href="https://github.com/seelananton8-byte">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://movie-app-ten-indol-45.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Movie_App_Live-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ---
