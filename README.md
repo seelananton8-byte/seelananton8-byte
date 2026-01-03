@@ -50,7 +50,7 @@
 
 ### 🌐 Personal Portfolio Website
 - Fully responsive React portfolio
-- Deployed on Netlify
+- Deployed on Vercel
 
 ---
 
