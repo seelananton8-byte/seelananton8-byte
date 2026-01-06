@@ -48,13 +48,16 @@
 ### 📊 Admin Dashboard with Analytics
 - KPI dashboards & optimized React components
 
-### 🎬 Movie App
-🔗 **Live Demo:** https://movie-app-ten-indol-45.vercel.app/
+### 🌦️ Weather Forecast App
+🔗 **Live Demo:** https://forecast-hub-delta.vercel.app/
 
-- Built with React & JavaScript  
-- Responsive UI  
-- Movie data fetched via API  
-- Deployed on Vercel  
+- Developed using React & JavaScript  
+- Clean and responsive user interface  
+- Fetches real-time weather data from API  
+- Displays temperature, humidity, wind speed, and location  
+- Skeleton loading for better user experience  
+- Proper error handling for invalid city search  
+- Hosted on Vercel
 
 ---
 
