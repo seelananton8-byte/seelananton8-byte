@@ -37,7 +37,7 @@
 
 ## 📌 Featured Projects
 
-### 💰 Smart Expense Tracker (React)
+### 💰 Smart Expense Tracker 
 - Category-wise filtering & monthly analytics
 - Interactive charts for spending insights
 
